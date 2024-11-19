@@ -1,0 +1,15 @@
+C:\Users\joaov\dev\dotnet\workspace\csharp-profundo\day-001\challange-001\bin\Debug\net8.0\challange-001.exe
+C:\Users\joaov\dev\dotnet\workspace\csharp-profundo\day-001\challange-001\bin\Debug\net8.0\challange-001.deps.json
+C:\Users\joaov\dev\dotnet\workspace\csharp-profundo\day-001\challange-001\bin\Debug\net8.0\challange-001.runtimeconfig.json
+C:\Users\joaov\dev\dotnet\workspace\csharp-profundo\day-001\challange-001\bin\Debug\net8.0\challange-001.dll
+C:\Users\joaov\dev\dotnet\workspace\csharp-profundo\day-001\challange-001\bin\Debug\net8.0\challange-001.pdb
+C:\Users\joaov\dev\dotnet\workspace\csharp-profundo\day-001\challange-001\obj\Debug\net8.0\challange-001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\dev\dotnet\workspace\csharp-profundo\day-001\challange-001\obj\Debug\net8.0\challange-001.AssemblyInfoInputs.cache
+C:\Users\joaov\dev\dotnet\workspace\csharp-profundo\day-001\challange-001\obj\Debug\net8.0\challange-001.AssemblyInfo.cs
+C:\Users\joaov\dev\dotnet\workspace\csharp-profundo\day-001\challange-001\obj\Debug\net8.0\challange-001.csproj.CoreCompileInputs.cache
+C:\Users\joaov\dev\dotnet\workspace\csharp-profundo\day-001\challange-001\obj\Debug\net8.0\challange-001.sourcelink.json
+C:\Users\joaov\dev\dotnet\workspace\csharp-profundo\day-001\challange-001\obj\Debug\net8.0\challange-001.dll
+C:\Users\joaov\dev\dotnet\workspace\csharp-profundo\day-001\challange-001\obj\Debug\net8.0\refint\challange-001.dll
+C:\Users\joaov\dev\dotnet\workspace\csharp-profundo\day-001\challange-001\obj\Debug\net8.0\challange-001.pdb
+C:\Users\joaov\dev\dotnet\workspace\csharp-profundo\day-001\challange-001\obj\Debug\net8.0\challange-001.genruntimeconfig.cache
+C:\Users\joaov\dev\dotnet\workspace\csharp-profundo\day-001\challange-001\obj\Debug\net8.0\ref\challange-001.dll
